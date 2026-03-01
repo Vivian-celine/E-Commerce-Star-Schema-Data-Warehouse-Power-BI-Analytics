@@ -196,38 +196,40 @@ Average Order Value = DIVIDE([Total Sales], [Distinct Orders])
 ---
 
 ## Insight
-— Seasonal Sales Spike
-December recorded the highest sales, total orders, average order value, and total profit, showing strong seasonal buying behaviour compared to November and January.
-— Revenue vs Profit Difference
-Home appliances generated the highest revenue (1.06M), but Kitchen appliances generated the highest profit (47K), showing that high sales volume does not always translate into high profitability.
-— Loss-Making Products
-Five appliances (Home theatre, Microwave oven, Gaming console, Clothe dryer, Water heater) are operating at negative profit margins, meaning they cost more than they generate in revenue.
-— Profit Driven by Customer Spending Behaviour
-The increase in profit in December was driven by higher order volume and higher average order value, not price increases.
-— Low Customer Retention
-The majority of customers place only 1–3 orders, indicating reliance on one-time or low-frequency buyers.
-— Uneven Customer Distribution by City
-Active purchasing customers are unevenly distributed across cities, with some locations contributing fewer active buyers than others.
-— Customer Conversion Gap
-Out of 200 registered customers, only 180 have placed orders, meaning 10% remain inactive. This indicates an untapped revenue opportunity within the existing customer base.
+🔹 — Seasonal Sales Spike
+   December recorded the highest sales, total orders, average order value, and total profit, showing strong seasonal buying    behaviour compared to November and January.
+🔹 — Revenue vs Profit Difference
+   Home appliances generated the highest revenue (1.06M), but Kitchen appliances generated the highest profit (47K),        
+   showing that high sales volume does not always translate into high profitability.
+🔹 — Loss-Making Products
+   Five appliances (Home theatre, Microwave oven, Gaming console, Clothe dryer, Water heater) are operating at negative  
+   profit margins, meaning they cost more than they generate in revenue.
+🔹 — Profit Driven by Customer Spending Behaviour
+   The increase in profit in December was driven by higher order volume and higher average order value, not price increases.
+🔹 — Low Customer Retention
+   The majority of customers place only 1–3 orders, indicating reliance on one-time or low-frequency buyers.
+🔹 — Uneven Customer Distribution by City
+   Active purchasing customers are unevenly distributed across cities, with some locations contributing fewer active buyers    than others.
+🔹 — Customer Conversion Gap
+   Out of 200 registered customers, only 180 have placed orders, meaning 10% remain inactive. This indicates an untapped       revenue opportunity within the existing customer base.
 
 ---
 
 ## Recommendation
-— Seasonal Planning Strategy
-Treat December as a peak season and develop separate inventory, sales, and marketing forecasts for peak and non-peak months to avoid overstocking and budgeting errors.
-— Profit-Focused Marketing
-Increase promotional focus on Kitchen appliances since they generate stronger profit margins despite lower revenue than Home appliances.
-— Address Loss-Making Products
-Review pricing strategies, renegotiate supplier costs, or bundle loss-making products with profitable items to prevent further erosion of overall profit.
-— Encourage Higher Spending Per Order
-Introduce bundle offers, upselling strategies, and promotional incentives to maintain higher average order values throughout the year.
-— Improve Customer Retention
-Implement loyalty programs, repeat-purchase discounts, and targeted follow-up campaigns to increase customer lifetime value.
-— Target Underperforming Cities
-Run localized marketing campaigns and promotions in lower-performing cities to improve customer engagement and balance revenue distribution.
-— Improve Customer Activation
-Launch targeted promotions and onboarding incentives to convert inactive customers into active buyers and increase overall revenue.
+✅ — Seasonal Planning Strategy
+   Treat December as a peak season and develop separate inventory, sales, and marketing forecasts for peak and non-peak        months to avoid overstocking and budgeting errors.
+✅ — Profit-Focused Marketing
+   Increase promotional focus on Kitchen appliances since they generate stronger profit margins despite lower revenue than     Home appliances.
+✅ — Address Loss-Making Products
+   Review pricing strategies, renegotiate supplier costs, or bundle loss-making products with profitable items to prevent      further erosion of overall profit.
+✅ — Encourage Higher Spending Per Order
+   Introduce bundle offers, upselling strategies, and promotional incentives to maintain higher average order values           throughout the year.
+✅ — Improve Customer Retention
+   Implement loyalty programs, repeat-purchase discounts, and targeted follow-up campaigns to increase customer lifetime       value.
+✅ — Target Underperforming Cities
+   Run localized marketing campaigns and promotions in lower-performing cities to improve customer engagement and balance      revenue distribution.
+✅ — Improve Customer Activation
+   Launch targeted promotions and onboarding incentives to convert inactive customers into active buyers and increase          verall revenue.
 
 ---
 
