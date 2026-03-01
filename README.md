@@ -47,8 +47,6 @@ The business generated strong revenue; however, the narrow gap between total cos
 
 ## 🏗️ Database Design
 
----
-
 The database follows a Star Schema structure, consisting of:
 
 🔹 Dimension Tables
@@ -178,7 +176,7 @@ Average Order Value = DIVIDE([Total Sales], [Distinct Orders])
 ## 📊 Dashboard Preview  
 
 ### 1️⃣ Star Schema
-![E_commerce](Images/E_commerce.PNG)
+![E_commerce](Images/E_commerce_model.PNG)
 
 ---
 
